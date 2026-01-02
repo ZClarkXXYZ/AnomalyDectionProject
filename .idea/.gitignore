@@ -8,3 +8,5 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# Project data (large files, not tracked)
+ /HearMyShip_Data/
